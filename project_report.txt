@@ -1,0 +1,71 @@
+
+    Predictive Purchase Order System for Dominos:
+    
+    Model Performance:
+    MAPE: 10.5%
+    
+    Purchase Order for Next Week:
+                    Ingredient     Quantity
+         Barbecued Chicken   565.714286
+               Red Peppers  1885.714286
+             Green Peppers  1037.142857
+                  Tomatoes  7354.285714
+                Red Onions 10937.142857
+            Barbecue Sauce   188.571429
+                     Bacon  2640.000000
+                 Pepperoni  4085.714286
+           Italian Sausage    62.857143
+           Chorizo Sausage   314.285714
+         Brie Carre Cheese   188.571429
+                Prosciutto   188.571429
+                     Pears    62.857143
+                     Thyme    31.428571
+                    Garlic  3771.428571
+              ?duja Salami   754.285714
+                  Pancetta  1131.428571
+       Friggitello Peppers   188.571429
+                   Chicken  9428.571429
+                Artichokes  1697.142857
+                   Spinach  4525.714286
+          Jalapeno Peppers   565.714286
+            Fontina Cheese   754.285714
+              Gouda Cheese   377.142857
+                 Mushrooms  5280.000000
+             Asiago Cheese  1131.428571
+             Alfredo Sauce   282.857143
+               Pesto Sauce  1131.428571
+         Mozzarella Cheese  1885.714286
+          Provolone Cheese   188.571429
+       Smoked Gouda Cheese   188.571429
+             Romano Cheese   188.571429
+               Blue Cheese   188.571429
+            Ricotta Cheese   471.428571
+Gorgonzola Piccante Cheese   377.142857
+Parmigiano Reggiano Cheese   942.857143
+              Green Olives   754.285714
+               Feta Cheese  2640.000000
+                 Pineapple  1131.428571
+                 Capocollo  7542.857143
+               Goat Cheese  1508.571429
+                   Oregano   188.571429
+          Calabrese Salami  1885.714286
+                  Eggplant   754.285714
+                  Zucchini   754.285714
+           Kalamata Olives   848.571429
+        Sun-dried Tomatoes   377.142857
+             Plum Tomatoes   754.285714
+                  Cilantro   377.142857
+                      Corn  2514.285714
+            Chipotle Sauce   754.285714
+                 Anchovies   534.285714
+              Genoa Salami  1131.428571
+ Prosciutto di San Daniele   440.000000
+                   Arugula   188.571429
+    Coarse Sicilian Salami  1508.571429
+          Luganega Sausage   754.285714
+                    Onions   377.142857
+        Soppressata Salami  1885.714286
+         Peperoncini verdi   188.571429
+   Thai Sweet Chilli Sauce   377.142857
+          Beef Chuck Roast  3582.857143
+    
